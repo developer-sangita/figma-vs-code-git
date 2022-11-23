@@ -1,0 +1,19 @@
+@media only screen and (min-width: 200px) and (max-width:768px){
+	 .discover{
+	 	margin-top: 40px;
+
+	 }
+	 .collection-image{
+	 	margin: auto;
+	 	margin-top: 10px;
+	 	margin-bottom: 5px;
+	 }
+	.featured h2{
+		margin-top: 20px;
+
+	 	}
+	 .furniture{
+	 	margin: auto;
+	 }
+	
+	 

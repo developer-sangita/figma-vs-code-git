@@ -1,0 +1,463 @@
+.top-position{
+     background:#9C623E;
+     height: 27px;
+
+}
+header{
+    background: #F5EFEB;
+    /*height: 85px;*/
+}
+.menu ul li a{
+font-family: 'Readex Pro', sans-serif;
+font style: Regular;
+font-size: 17px;
+line height: 21px;
+color: #212121;
+margin-right: 37px;
+margin-top:20px;
+}
+.btn{
+     width: 150px;
+     height: 47px;
+     color: white;
+     background: #212121;
+     border-radius: 6px;
+     box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.19);
+}
+.btn-2nd{
+     background: #9C623E;
+      width: 120px;
+     height: 47px;
+     color: white;
+     border-radius: 6px;
+     padding: 10px;
+     margin-left: 10px;
+     border: none;
+
+}
+.menu .navbar-expand-lg .navbar-nav{
+         align-items: center;
+}
+
+.banner{
+     background:#492712;
+     padding-top: 150px;
+     padding-bottom:150px;
+     /*position: relative;*/
+
+}
+.year-box{
+     width: 149px;
+     height: 149px;
+     background: #F3E3D9;
+     border-radius: 15px;
+     box-shadow: 0px 4px 77px rgba(0,0,0,0.25);
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     position: relative;
+     top: -68px;
+     margin: auto;
+}
+.year-box h3{
+ font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+color: #212121;
+}
+.year-box img{
+     background: white;
+     padding: 15px;
+     border-radius: 5px;
+}
+.banner h1{
+ font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.banner h1 span{
+     color: #D49D7B;
+}
+.banner p{
+     color: white;
+}
+.discover{
+     margin: auto;
+     width: 152px;
+height: 47px;
+background: #FFFFFF;
+box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.19);
+border: none;
+border-radius: 6px;
+top:309px;
+
+
+}
+.discover span{
+     width: 105px;
+height: 21px;
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+color: #492712;
+}
+.imgtotal{
+     position: relative;
+}
+.img1{
+     position:absolute;
+     left:254px;
+     top:10px;
+}
+.img2{
+      position:absolute;
+     left:921px;
+     top:-50px;
+}
+.img3{
+     position:absolute;
+     top: 10px;
+     left: 1156px;
+}
+.form-banner{
+ width:100%;
+/*height: 80px;*/
+padding: 20px 0px;
+left: 20px;
+top:100px;
+background: #FFFFFF;
+box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.14);
+border-radius: 13px;
+position: absolute;
+margin: auto;
+}
+.form-banner select{
+     border: none;
+     border-right: 1px solid black;
+     border-radius: 0px;
+}
+
+.form-banner select{
+  background-image:
+    linear-gradient(45deg, transparent 50%, gray 50%),
+    linear-gradient(135deg, gray 50%, transparent 50%),
+    linear-gradient(to right, #fff, #fff);
+  background-position:
+    calc(100% - 20px) calc(1em + 2px),
+    calc(100% - 15px) calc(1em + 2px),
+    calc(100% - 2.5em) 0.5em;
+  background-size:
+    5px 5px,
+    5px 5px,
+    1px 1.5em;
+  background-repeat: no-repeat;
+}
+.form-banner select:focus{
+         box-shadow: none;
+}
+.form-banner button{
+ width: 170px;
+height: 47px;
+background: #9C623E;
+box-shadow: 0px 4px 11px rgba(210, 116, 58, 0.44);
+border-radius: 6px;
+}
+.auction{
+ margin-top: 55px;
+}
+.our-view h3{
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 38px;
+color: #492712;
+margin-bottom: 49px;
+
+}
+.our-view p{
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 31px;
+color: #9C623E;
+}
+.collection-image{
+width: 163px;
+height: 163px;
+background: #DBDEE6;
+border-radius: 16px;
+}
+.collection-image img{
+     margin-top: 24px;
+}
+.featured h2{
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 38px;
+color: #492712;
+margin-top: 130px;
+}
+.image-contentdiscount{
+width:91.71px;
+height:25.22px;
+border-radius: 5px;
+background: #031424;
+color: white;
+}
+.number{
+width: 30px;
+height: 30px;
+border-radius:21px;
+background: linear-gradient(106.12deg, #683D22 23.27%, #42230F 87.09%);
+color: white;
+}
+.image-content h5{
+Font family: Readex Pro;
+Font style: Bold;
+Font size: 16px;
+color:  #42230F;
+}
+.image-contenttime{
+Font family: Readex Pro;
+Font style: SemiBold;
+Font size: 22px;
+Line height: 28px;
+Line height: 100%;
+color: #031424;
+}
+.image-contentprice{
+    color: #11862B;
+    Font family: Readex Pro;
+font-weight: bold;
+Font size: 18px;
+Line height: 23px;
+
+}
+.image-content button {
+ background: #9C623E;
+box-shadow: 0px 4px 11px rgba(210, 116, 58, 0.44);
+border-radius: 6px;
+margin-top: 22px;
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+width:244.13px;
+height:47.41px;
+color: #FFFFFF;
+/*margin: auto;*/
+}
+.image-content{
+     /*box-shadow: 0px 4px 11px rgba(210, 116, 58, 0.44);*/
+ margin-top: 50px;
+    margin-bottom: 50px;
+}
+.sale50{
+     width:1171px
+     height: 293px;
+     background: #9C623E;
+}
+.sales50img{
+width: 263px;
+height:302px;
+}
+.sale50-1st h3{
+Font family: Readex Pro;
+Font style: Bold;
+Line height: 38px;
+color: white;
+}
+.sale50-1st button{
+width: 152px;
+height: 47px;
+border-radius: 6px;
+margin-bottom: 70px;
+margin-top: 30px;
+}
+
+.sale50img2{
+width: 345px;
+height: 254px;
+}
+.howwork{
+     margin-top: 130px;
+}
+.howwork h2{
+Font family: Readex Pro;
+Font style: Bold;
+Font size: 30px;
+Line height: 38px;
+text-align: center;
+color:#492712;
+margin-bottom:50px ;
+}
+.browse{
+     height:215px;
+     background: #F3E3D9;
+     border-radius: 15px;
+     width: 315px;
+     left: 119px;
+     top: 3143px;
+}
+.whitearea{
+     width: 60px;
+     height: 60px;
+     background: white;
+     margin-top:29px;
+     margin-left: 20px;
+     margin-bottom: 10px;
+}
+.vector1{
+     margin-left: 20px;
+     margin-top: 20px;
+}
+.number1{
+font family: Readex Pro;
+font style: SemiBold;
+font-size: 58px;
+line height: 73px;
+color: #212121;
+margin-right: 24px;
+margin-top: 20px;
+}
+.howwork p{
+color: #212121;
+font family: Readex Pro;
+font-weight:300 ;
+font size: 12px;
+Line height: 18px;
+}
+.howwork h4{
+     font-weight: 600;
+     font-size: 20px;
+}
+.dash-border{
+    width: 100%;
+    border: 2px dashed #000000;
+}
+
+.special-off{
+     font-size:10.79px;
+       font-family: Readex Pro;
+      font-Weight: 700;
+      line height:13.48px;
+     width: 47px;
+     height: 19.26px;
+      background: black;
+      color: white;
+}
+.special-dealhot{
+     font-size:10.79px;
+       font-family: Readex Pro;
+      font-Weight: 700;
+      line height:13.48px;
+         width: 47px;
+       height: 19.26px;
+      background:#9C623E;
+      color: white; 
+}
+.specialdeal-first{
+background: #FFFFFF;
+box-shadow: 0px 4px 39px rgba(0, 0, 0, 0.08);
+border-radius: 10px;
+}
+.specialdeal-time{
+     width: 35.88px;
+    height: 35.88px;
+    border-radius: 50%;
+    background: #9C623E;
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 12.3px;
+line-height: 15px;
+color: #FFFFFF;
+padding-top: 10px;
+text-align: center;
+/* margin: 10px; */
+}
+.special-dealtimeouter p{
+font-family:'Newsreader';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 10px;
+color: #031424;
+margin: 5px;
+}
+.form-control{
+    background: #9C623E;
+}
+.colorfull-lampouter{
+margin-top: 135px;
+}
+.colorfull-lampinner{
+background: #FFF4EE;
+mix-blend-mode: normal;
+border-radius: 10px;
+height: 195px;
+}
+
+.colorfull-lampinner h4{
+ font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 22.4482px;
+line-height: 28px;
+color: #031424;
+margin-top: 28px;
+}
+.footerpart{
+    background: #FFF5EE;
+    
+}
+.footerpart h4{
+font-family: Readex Pro;
+font-style: Bold;
+font size: 20px;
+line height: 25px;
+margin-top: 45px;
+text-transform: capitalize;
+color: #000000;
+
+}
+
+.footerpart ul li{
+font-family: 'Readex Pro';
+font-style:normal;
+font-size: 16px;
+line-height: 31px;
+font-weight: 400;
+color: rgba(45, 45, 45, 0.58);
+
+}
+
+.lastfooterpart p{
+    font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+text-transform: capitalize;
+color: white;
+}
+.lastfooterpart i{
+    font-size:20px;
+   color: white;
+   margin-right:10px;
+}
+.lastfooterpart{
+ background:#492712;
+}
